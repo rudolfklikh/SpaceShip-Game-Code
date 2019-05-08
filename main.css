@@ -1,0 +1,12 @@
+body
+{
+    background-image: url('/img/backGround.jpg');
+    height: calc(100vh - 1rem);
+    background-size: cover;
+    color: white;
+}
+#wrapper
+{
+    width: 600px;
+    margin: 0 auto;
+}
