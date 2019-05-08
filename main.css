@@ -1,6 +1,6 @@
 body
 {
-    background-image: url('/img/backGround.jpg');
+    background-image: url('img/backGround.jpg');
     height: calc(100vh - 1rem);
     background-size: cover;
     color: white;
